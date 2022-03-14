@@ -18,6 +18,6 @@ sudo pacman -S openconnect
 
 step2 you most clone repository and flowing command:
 
+cp vpn.sh expect.sh ~/
 
-
-
+cp vpn.sh expect.sh ~/
